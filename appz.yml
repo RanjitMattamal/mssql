@@ -22,10 +22,6 @@ volumes:
     mount: /var/lib/mssql
     name: data
     size: 5Gi
-  - claim: mssql-backup
-    mount: /appz/backup
-    name: backup
-    size: 5Gi
 
 properties:
     SA_PASSWORD:
