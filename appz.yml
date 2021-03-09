@@ -19,7 +19,7 @@ deploy:
 
 volumes:
   - claim: mssql-data
-    mount: /var/lib/mssql
+    mount: /appz/data
     name: data
     size: 5Gi
 
