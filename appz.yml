@@ -28,6 +28,6 @@ properties:
       vault: SA_PASSWORD
     DB_USER_PASS: Computer#1
      # vault: DB_USER_PASS
-    DB_NAME: BookStore
+    DB_NAME: bookstore
     DB_USER_NAME: demousser  
     revision : 2
