@@ -29,5 +29,5 @@ properties:
     DB_USER_PASS: Computer#1
      # vault: DB_USER_PASS
     DB_NAME: BookStore
-    DB_USER_NAME: demouser  
+    DB_USER_NAME: demousser  
     revision : 2
