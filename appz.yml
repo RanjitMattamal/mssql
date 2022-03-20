@@ -28,6 +28,6 @@ properties:
       vault: SA_PASSWORD
     DB_USER_PASS:
       vault: DB_USER_PASS
-    DB_NAME: CLOUDCONTROL
-    DB_USER_NAME: appzuser  
-    revision : 11
+    DB_NAME: BookStore
+    DB_USER_NAME: demouser  
+    revision : 1
