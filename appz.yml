@@ -1,7 +1,7 @@
 app:
     name: MSSQL
     code: mssql
-    notify: appzdev@cloudbourne.co
+    notify: fjoy@ecloudcontrol.com
 
 build:
     version: 2017.2
@@ -11,7 +11,7 @@ build:
     image_template: mssql-2017.2
 
 deploy:
-    context: alpha/DEV
+    context: francisjoy/DEV
     type: statefulset
     replicas: 1
     port:
