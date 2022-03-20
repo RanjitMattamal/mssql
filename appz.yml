@@ -30,4 +30,4 @@ properties:
      # vault: DB_USER_PASS
     DB_NAME: BookStore
     DB_USER_NAME: demouser  
-    revision : 1
+    revision : 2
